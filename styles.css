@@ -6,6 +6,9 @@
 
 h1 {
     text-align: center;
+    width: 400px;
+    margin: 16px auto;
+    padding: 8px;
 }
 
 img {
@@ -22,4 +25,22 @@ h1, h2, h3 {
 
 a {
     text-decoration: none;
+}
+
+.header {
+    margin: 16px auto;
+    padding: 8px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.links {
+    border-color: rgb(5, 46, 4);
+    border-style: dashed;
+    width: 700px;
+    margin: 0 auto;
+    text-align:center;
 }
